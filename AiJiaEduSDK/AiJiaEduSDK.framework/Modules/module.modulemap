@@ -1,0 +1,6 @@
+framework module AiJiaEduSDK {
+  umbrella header "AiJiaEduSDK.h"
+
+  export *
+  module * { export * }
+}
