@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.resource               = "AiJiaEduSDK/AiJiaEduSDKResources.bundle"
 
 
-  s.dependency 'MobileRTCSDK', '~> 4.6.2'
+  s.dependency 'MobileRTCSDK'
   s.dependency 'AFNetworking', '~> 4.0.0'
   s.dependency 'FMDB', '~> 2.6.2'
   s.dependency 'JSONModel', '~> 1.1.2'
