@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "AiJiaEduSDK"
-  s.version          = "4.6.2"
+  s.version          = "1.0.0"
   s.summary          = "Aijia Education SDK"
   s.homepage         = "https://github.com/ChellyLau/AiJiaEduSDK"
   s.license          = 'MIT'
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.resource               = "AiJiaEduSDK/AiJiaEduSDKResources.bundle"
 
 
-  s.dependency 'MobileRTCSDK'
+  s.dependency 'MobileRTCSDK', '~> 4.6.2'
   s.dependency 'AFNetworking', '~> 4.0.0'
   s.dependency 'FMDB', '~> 2.6.2'
   s.dependency 'JSONModel', '~> 1.1.2'
