@@ -43,7 +43,7 @@ typedef void (^AijiaCallBack)(BOOL success, NSString *_Nonnull message);
 // initialize
 - (void)initialize:(AiJiaEduSDKInitContext * _Nonnull)context;
 
-// login
+// login [account为11位手机号
 - (void)login:(NSString *_Nullable)account callBack:(AijiaCallBack _Nullable)callBack;
 
 // logout
@@ -57,7 +57,7 @@ typedef void (^AijiaCallBack)(BOOL success, NSString *_Nonnull message);
 
 
 
-// -- for AppDelegate
+// -- for AppDelegate [必须要执行哦
 
 // call the method in AppDelegate "- (void)applicationWillResignActive:(UIApplication *)application".
 - (void)appWillResignActive;

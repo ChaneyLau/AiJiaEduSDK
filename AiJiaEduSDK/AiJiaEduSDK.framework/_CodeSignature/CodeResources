@@ -32,6 +32,10 @@
 		<data>
 		D3X6z5gX9j+Zz8kLVlipoyw7Kvc=
 		</data>
+		<key>AiJiaEduSDKResources.bundle/course_playing.gif</key>
+		<data>
+		psDeF8vwKOkQh9R5D0FozdnPuHk=
+		</data>
 		<key>AiJiaEduSDKResources.bundle/course_refresh@2x.png</key>
 		<data>
 		zmd3SH6bYjZ52pC+sch7A9fqsMw=
@@ -138,7 +142,7 @@
 		</data>
 		<key>Headers/AiJiaEduSDK.h</key>
 		<data>
-		V8+MiWHy5X7cpaLsbf5rwRbWyM4=
+		ni9VJsCNMmfZvxMU1qGuD31ZQB4=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -4674,6 +4678,17 @@
 			29M9uSgkbSBZHc5AiIzGXaS9WdlDs7Pi31pQRMgF270=
 			</data>
 		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_playing.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			psDeF8vwKOkQh9R5D0FozdnPuHk=
+			</data>
+			<key>hash2</key>
+			<data>
+			22kSKRPCLjeKJH/w47gqdCkOQ8eK2dEnc1TvSwI0HKM=
+			</data>
+		</dict>
 		<key>AiJiaEduSDKResources.bundle/course_refresh@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -4964,11 +4979,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V8+MiWHy5X7cpaLsbf5rwRbWyM4=
+			ni9VJsCNMmfZvxMU1qGuD31ZQB4=
 			</data>
 			<key>hash2</key>
 			<data>
-			CcNY1/p4sSiAfqQSMypdu5uPioR6y6mU2y5waP9XjgA=
+			xh68shGEglmU87rK5Dtcs4Uzt/CEiWwL6fz1VbFmw2g=
 			</data>
 		</dict>
 		<key>MobileRTCResources.bundle/AddressViewReload.png</key>
