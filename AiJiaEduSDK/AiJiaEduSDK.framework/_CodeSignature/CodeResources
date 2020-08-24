@@ -142,7 +142,11 @@
 		</data>
 		<key>Headers/AiJiaEduSDK.h</key>
 		<data>
-		ni9VJsCNMmfZvxMU1qGuD31ZQB4=
+		eepXfItsU59rUHRe4IkYb0o6O1I=
+		</data>
+		<key>Headers/AiJiaEduSDKConstants.h</key>
+		<data>
+		2Cjw7ivuORynQeh5+nyHZDAWSt0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1155,7 +1159,7 @@
 		</dict>
 		<key>MobileRTCResources.bundle/default_avatar_inmeeting.png</key>
 		<data>
-		eWrzoZa/Sm2mD5xZgiucvN4XyOc=
+		isrsg5opMiGXSTfb+0qPklFU7/Q=
 		</data>
 		<key>MobileRTCResources.bundle/default_contact_avatar.png</key>
 		<data>
@@ -4979,11 +4983,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ni9VJsCNMmfZvxMU1qGuD31ZQB4=
+			eepXfItsU59rUHRe4IkYb0o6O1I=
 			</data>
 			<key>hash2</key>
 			<data>
-			xh68shGEglmU87rK5Dtcs4Uzt/CEiWwL6fz1VbFmw2g=
+			sm1Awe+UIp/s6R+uxtjkV6uR94NLAFjqPD880TkMhQE=
+			</data>
+		</dict>
+		<key>Headers/AiJiaEduSDKConstants.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2Cjw7ivuORynQeh5+nyHZDAWSt0=
+			</data>
+			<key>hash2</key>
+			<data>
+			YToV+yK/3CI7a9isoTBADodipxYHGMpurDBfi7lreVk=
 			</data>
 		</dict>
 		<key>MobileRTCResources.bundle/AddressViewReload.png</key>
@@ -7742,11 +7757,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eWrzoZa/Sm2mD5xZgiucvN4XyOc=
+			isrsg5opMiGXSTfb+0qPklFU7/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			m3051x+lK5zvGetx0EJbeeYTrrpHVPdMu/tU2S3l1to=
+			nsDpbownulzvCqXE7xsNkOZcGPZo71hDJOHFSKbvXzc=
 			</data>
 		</dict>
 		<key>MobileRTCResources.bundle/default_contact_avatar.png</key>

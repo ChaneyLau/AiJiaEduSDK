@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import "AiJiaEduSDKConstants.h"
 
 
 //! Project version number for AiJiaEduSDK.
@@ -27,8 +28,8 @@ FOUNDATION_EXPORT const unsigned char AiJiaEduSDKVersionString[];
 @property (nonatomic, copy) NSString * _Nullable appKey;
 // appSecret
 @property (nonatomic, copy) NSString * _Nullable appSecret;
-// evn > sdk联调环境(”dev”,”test”,”online”)
-@property (nonatomic, copy) NSString * _Nullable evn;
+// evn > sdk联调环境
+@property (nonatomic, assign) AiJiaEduSDKEvnType evn;
 
 @end
 
