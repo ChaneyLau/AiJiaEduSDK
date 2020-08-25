@@ -76,6 +76,10 @@
 		<data>
 		pQNkdqVEyncSi8TPycex3hL6P+Y=
 		</data>
+		<key>AiJiaEduSDKResources.bundle/live_portrait_tip@2x.png</key>
+		<data>
+		/9cQ2PeK63x6hvtma4OWzJq2qbg=
+		</data>
 		<key>AiJiaEduSDKResources.bundle/member_info@2x.png</key>
 		<data>
 		FRU5fc4rATVA/N9XXvNHLDjU4zE=
@@ -4801,6 +4805,17 @@
 			<key>hash2</key>
 			<data>
 			pgKjf3/dEtW5cDdGxjDrLLxyJAAbWFzYSKdxN3lDHDU=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/live_portrait_tip@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/9cQ2PeK63x6hvtma4OWzJq2qbg=
+			</data>
+			<key>hash2</key>
+			<data>
+			KGaCL4CW9AJ1puhxv9NGIpWe+xypcVKuBuzHnVyYEHI=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/member_info@2x.png</key>
