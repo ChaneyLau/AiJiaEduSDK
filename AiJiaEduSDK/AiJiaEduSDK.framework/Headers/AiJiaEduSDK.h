@@ -53,9 +53,11 @@ typedef void (^AijiaCallBack)(BOOL success, NSString *_Nonnull message);
 // log
 - (void)enableLog:(BOOL)enable;
 
-// start aijia module
-- (void)enterHomePage;
+// 进入爱家模块【present方式】
+- (void)enterAJModule;
 
+// 进入爱家模块【push方式】
+- (void)enterAJModuleByWJJNavigation:(UINavigationController *_Nullable)navigationController;
 
 
 // -- for AppDelegate [必须要执行哦
