@@ -164,6 +164,64 @@
 		<data>
 		aEqGwtm0vFQP+X3iHYCwApbmX/U=
 		</data>
+		<key>MJRefresh.bundle/arrow@2x.png</key>
+		<data>
+		5ZENFuDcEgHjDuL7tn7h97HeuSE=
+		</data>
+		<key>MJRefresh.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7bISz0bhloirjdZnLESYEv9pWHA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HlQTgD96vdwvNFwCCXYwug5vWq0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			70BSSD6lfS6qEPkBPHpXEOoxUIA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/uk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QnBORt5FLsanCSC7PJvOGZ6Aozg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DD5bNeaUTksFP2PkSNtokoJkKjU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hjIzn4qLs8xLMnelxOeMouDSaZY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>MobileRTCResources.bundle/AddressViewReload.png</key>
 		<data>
 		RlxfMN7d0MPzpCpn4Low+7+u76M=
@@ -219,22 +277,6 @@
 		<key>MobileRTCResources.bundle/Chinese_circle_national_flag16@3x.png</key>
 		<data>
 		EDFrvCNsZudE9CG9btnzB7C9mFM=
-		</data>
-		<key>MobileRTCResources.bundle/Contents.json</key>
-		<data>
-		XTWy4XjNepWNYQSKVHVDA5TIddo=
-		</data>
-		<key>MobileRTCResources.bundle/Drop Down.png</key>
-		<data>
-		ZNzZ0ZfIfSNJuDuUx5/zFrv41Rk=
-		</data>
-		<key>MobileRTCResources.bundle/Drop Down@2x.png</key>
-		<data>
-		TYOz8SvaDF9bCG4cOA1OCYRmK8Q=
-		</data>
-		<key>MobileRTCResources.bundle/Drop Down@3x.png</key>
-		<data>
-		U91/+QNBjcmM9S1RJix5CLpRP6Q=
 		</data>
 		<key>MobileRTCResources.bundle/Earth_White_Ball.png</key>
 		<data>
@@ -2808,18 +2850,6 @@
 		<data>
 		fACo23/uhFpE76tUCYwkEbZwF9w=
 		</data>
-		<key>MobileRTCResources.bundle/icon_close_white.png</key>
-		<data>
-		865zNduY6RFM6kor0r6oiEQxw0g=
-		</data>
-		<key>MobileRTCResources.bundle/icon_close_white@2x.png</key>
-		<data>
-		JFw1ZPOBRoQkekR+hdYyrJ2l1Ns=
-		</data>
-		<key>MobileRTCResources.bundle/icon_close_white@3x.png</key>
-		<data>
-		6/fnO97Gbduq3afp0bQ21ZjjLlU=
-		</data>
 		<key>MobileRTCResources.bundle/icon_confirm.png</key>
 		<data>
 		hecOE9Gk3bVOnA/Y2nVKeQNToh4=
@@ -2879,18 +2909,6 @@
 		<key>MobileRTCResources.bundle/icon_ecb@3x.png</key>
 		<data>
 		1Ks20ZPGeyTX1na6d5kGh3Dc1QU=
-		</data>
-		<key>MobileRTCResources.bundle/icon_ecb_gray.png</key>
-		<data>
-		RhoMHVaM42ToawEp+zI427jFoxs=
-		</data>
-		<key>MobileRTCResources.bundle/icon_ecb_gray@2x.png</key>
-		<data>
-		0ZGDBb1dhD/PN3Gfava89up9v08=
-		</data>
-		<key>MobileRTCResources.bundle/icon_ecb_gray@3x.png</key>
-		<data>
-		YlOTGYEBNrZwZ6GebO7YN110H8g=
 		</data>
 		<key>MobileRTCResources.bundle/icon_expand_more.png</key>
 		<data>
@@ -2963,18 +2981,6 @@
 		<key>MobileRTCResources.bundle/icon_gcm@3x.png</key>
 		<data>
 		gAHjbYYDmyeRGoNprl6nAL8yoxY=
-		</data>
-		<key>MobileRTCResources.bundle/icon_gray_more.png</key>
-		<data>
-		YtZTGZubKZPA9h3nvrig0I0DFSo=
-		</data>
-		<key>MobileRTCResources.bundle/icon_gray_more@2x.png</key>
-		<data>
-		uFBuNyUdC7KMF/l5Z7tHMJDQdBY=
-		</data>
-		<key>MobileRTCResources.bundle/icon_gray_more@3x.png</key>
-		<data>
-		a2rvQEsZtVGGGlSAPIKo9iCAIhE=
 		</data>
 		<key>MobileRTCResources.bundle/icon_home_share_screen.png</key>
 		<data>
@@ -4286,14 +4292,6 @@
 		<data>
 		uSNKjE7PBUTCU4SOvKiG/UddeO8=
 		</data>
-		<key>MobileRTCResources.bundle/navibarbutton_back_30.png</key>
-		<data>
-		f9fNWEIFlx43dBHnP+9KnGFpVyA=
-		</data>
-		<key>MobileRTCResources.bundle/navibarbutton_back_30@2x.png</key>
-		<data>
-		U4nGBxTLbw5SrAGzNExbZzH8X7Q=
-		</data>
 		<key>MobileRTCResources.bundle/network_bad.png</key>
 		<data>
 		hR89jnfxLrEYpeLPwe1/yphmIDo=
@@ -4648,18 +4646,6 @@
 		<data>
 		XtRSCqjaVveNpXSUJJbXe0OkQ3M=
 		</data>
-		<key>MobileRTCResources.bundle/waitingroom_chat.png</key>
-		<data>
-		IbfaAseIu4u6GYR5jZRt2BQNyOw=
-		</data>
-		<key>MobileRTCResources.bundle/waitingroom_chat@2x.png</key>
-		<data>
-		glGwro6KoiIU0TIT/2Iya3bbKz8=
-		</data>
-		<key>MobileRTCResources.bundle/waitingroom_chat@3x.png</key>
-		<data>
-		YsSkAIh93vV3cMot6YvKZ3Mv78g=
-		</data>
 		<key>MobileRTCResources.bundle/zcacert.pem</key>
 		<data>
 		+NK7bd6E9YssjK9YTq8MBA56/Jc=
@@ -4668,7 +4654,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zWNNaMB30asqFNlBZYWECKoY8v0=
+			ur01u6x34Y03KDy7G3isJ7T7eNM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4677,7 +4663,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nsqJ/skh+/FuEhBI0E5TCa3zPWQ=
+			ur01u6x34Y03KDy7G3isJ7T7eNM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4686,24 +4672,6 @@
 		<data>
 		stLUpcQbZvxDMX169DeYyTq7UgI=
 		</data>
-		<key>en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zmV6UqBSo6r1NOz798vd5O4zTBA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D8Y/NogUGE7m8NRmmOQoVmPtkwE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -5136,6 +5104,95 @@
 			YToV+yK/3CI7a9isoTBADodipxYHGMpurDBfi7lreVk=
 			</data>
 		</dict>
+		<key>MJRefresh.bundle/arrow@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5ZENFuDcEgHjDuL7tn7h97HeuSE=
+			</data>
+			<key>hash2</key>
+			<data>
+			5pZTVM6xOoz5TmObI4Nq10XxwWgOr9sM2We8r8FZAYg=
+			</data>
+		</dict>
+		<key>MJRefresh.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7bISz0bhloirjdZnLESYEv9pWHA=
+			</data>
+			<key>hash2</key>
+			<data>
+			aNuP/arRviRYlG5MZ7uH9g4oXSWFuq8EkVRHVdCiC68=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HlQTgD96vdwvNFwCCXYwug5vWq0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xlf+q1uxWuvZYubG/vIYmehX5T7lPlNQUb+PHjh0pBk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			70BSSD6lfS6qEPkBPHpXEOoxUIA=
+			</data>
+			<key>hash2</key>
+			<data>
+			hQQ+DGRSVAaRkE2qWx6AODZqelJGdZg8S4HVsbh1QTk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/uk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QnBORt5FLsanCSC7PJvOGZ6Aozg=
+			</data>
+			<key>hash2</key>
+			<data>
+			xjxPnS1XFtO6+C9vBGY8MQBJtBGFNJflXSB/tFgPKKQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DD5bNeaUTksFP2PkSNtokoJkKjU=
+			</data>
+			<key>hash2</key>
+			<data>
+			5c2ENj+vfMLxJOnUypY2dhJ3O8hGg7P3PaWrgwX+G0I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MJRefresh.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hjIzn4qLs8xLMnelxOeMouDSaZY=
+			</data>
+			<key>hash2</key>
+			<data>
+			AteA9vw+ofnahB0RNbonkmUulQC5Co8UvNf/1MwU7a4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>MobileRTCResources.bundle/AddressViewReload.png</key>
 		<dict>
 			<key>hash</key>
@@ -5288,50 +5345,6 @@
 			<key>hash2</key>
 			<data>
 			fXvYCvT8FP5mSELvrEikFWOAGsedvHjKaxpQY0aizrY=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/Contents.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XTWy4XjNepWNYQSKVHVDA5TIddo=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZwsWJJLqM5C6IDBhNXEZ5CBD9O0wa7k5tjq0YEi2vw8=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/Drop Down.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZNzZ0ZfIfSNJuDuUx5/zFrv41Rk=
-			</data>
-			<key>hash2</key>
-			<data>
-			fJ2aWgZNcy19QSFybF2yiEdZwt34KzpqQSr3H8z3KVs=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/Drop Down@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TYOz8SvaDF9bCG4cOA1OCYRmK8Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			+eMRvhsE4O8NcXP7BlWWVAOE7wCnezDdk8HS0tRzjyQ=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/Drop Down@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U91/+QNBjcmM9S1RJix5CLpRP6Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			46INVcmciIpwDNWKaM9Bpl0HTleV1iLOCQg6gUD1Umg=
 			</data>
 		</dict>
 		<key>MobileRTCResources.bundle/Earth_White_Ball.png</key>
@@ -12360,39 +12373,6 @@
 			8cOe3gNsZJdDaQGtsItPC04bY/U8FQGR0P+B3GBTQBY=
 			</data>
 		</dict>
-		<key>MobileRTCResources.bundle/icon_close_white.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			865zNduY6RFM6kor0r6oiEQxw0g=
-			</data>
-			<key>hash2</key>
-			<data>
-			DJ2osBQPz4xsq2W/f54UlCPj5tV89zYE4er9f6NMO24=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/icon_close_white@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JFw1ZPOBRoQkekR+hdYyrJ2l1Ns=
-			</data>
-			<key>hash2</key>
-			<data>
-			menATVAEXXkdz54rnss4pZEFkWK8vuYU2shtvz5jsgg=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/icon_close_white@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6/fnO97Gbduq3afp0bQ21ZjjLlU=
-			</data>
-			<key>hash2</key>
-			<data>
-			I4o/Nl2WJxWSaU/Z6RFBbYwPTtjSPuq3F9VHiUQVOYU=
-			</data>
-		</dict>
 		<key>MobileRTCResources.bundle/icon_confirm.png</key>
 		<dict>
 			<key>hash</key>
@@ -12556,39 +12536,6 @@
 			<key>hash2</key>
 			<data>
 			+WNJiZiU8WQuch+RmH3jgl2FbJqDi2tmvgiCF+oMXyw=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/icon_ecb_gray.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RhoMHVaM42ToawEp+zI427jFoxs=
-			</data>
-			<key>hash2</key>
-			<data>
-			5+1Lze23hwm00W3eMyzA5aokKN6hY2lOQUgTmGSu82M=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/icon_ecb_gray@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0ZGDBb1dhD/PN3Gfava89up9v08=
-			</data>
-			<key>hash2</key>
-			<data>
-			UImpQrJ1t7Hh2YQIZJwR9IO7pdBFnU1+8l1M3Z5Pc9Q=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/icon_ecb_gray@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YlOTGYEBNrZwZ6GebO7YN110H8g=
-			</data>
-			<key>hash2</key>
-			<data>
-			Z68zWBRmo/dv5iG9M3ur/h+p1KI1rboTnsL14sCF5dU=
 			</data>
 		</dict>
 		<key>MobileRTCResources.bundle/icon_expand_more.png</key>
@@ -12787,39 +12734,6 @@
 			<key>hash2</key>
 			<data>
 			I1sYU+E8DVBRd7lAQV1tpA/IoTchqHyqzh/bTiK1yRg=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/icon_gray_more.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YtZTGZubKZPA9h3nvrig0I0DFSo=
-			</data>
-			<key>hash2</key>
-			<data>
-			sxzPdfHcqG1TrMBNOKGElDFTBtBj+kC4xXWvmK1LrzI=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/icon_gray_more@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uFBuNyUdC7KMF/l5Z7tHMJDQdBY=
-			</data>
-			<key>hash2</key>
-			<data>
-			u1DpfO5QP9XyLHDNaH9MKpMl3Ft/waJ8DO8S8Ca8LKI=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/icon_gray_more@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			a2rvQEsZtVGGGlSAPIKo9iCAIhE=
-			</data>
-			<key>hash2</key>
-			<data>
-			RqtQANq3VUhmI5dW6ur6s2SCwvul3Y59wjNU/aPbpso=
 			</data>
 		</dict>
 		<key>MobileRTCResources.bundle/icon_home_share_screen.png</key>
@@ -16401,28 +16315,6 @@
 			GrIqh5EObgrL5RtyM5aOkXW5WE6WYcUfcIZ9bX3scjs=
 			</data>
 		</dict>
-		<key>MobileRTCResources.bundle/navibarbutton_back_30.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f9fNWEIFlx43dBHnP+9KnGFpVyA=
-			</data>
-			<key>hash2</key>
-			<data>
-			3x0rxsADLkXQJt83FIbLuTjShx4XnP8XqVTytzeEZo0=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/navibarbutton_back_30@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U4nGBxTLbw5SrAGzNExbZzH8X7Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			XOveDlhsY5Eiaac0ltjggEdyYZbw4PSeMd3t+Mg1Zzw=
-			</data>
-		</dict>
 		<key>MobileRTCResources.bundle/network_bad.png</key>
 		<dict>
 			<key>hash</key>
@@ -17373,39 +17265,6 @@
 			Kgqv2VBB4CkjYmUTJLiSR6QNtdl/ItJ2vpSkGn92Oz0=
 			</data>
 		</dict>
-		<key>MobileRTCResources.bundle/waitingroom_chat.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IbfaAseIu4u6GYR5jZRt2BQNyOw=
-			</data>
-			<key>hash2</key>
-			<data>
-			7230xIe0CflHjJ6rs+nHCJgzIZNdBZ3syiqhvMaxAJA=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/waitingroom_chat@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			glGwro6KoiIU0TIT/2Iya3bbKz8=
-			</data>
-			<key>hash2</key>
-			<data>
-			KiT/RzYXdqoUM9oCn5FCh00x/D1bMpwAwwzvRvMD5kY=
-			</data>
-		</dict>
-		<key>MobileRTCResources.bundle/waitingroom_chat@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YsSkAIh93vV3cMot6YvKZ3Mv78g=
-			</data>
-			<key>hash2</key>
-			<data>
-			kA1qefiM+908yN5kOk4AMe1r1NaVmOu0t46R6Zn21lk=
-			</data>
-		</dict>
 		<key>MobileRTCResources.bundle/zcacert.pem</key>
 		<dict>
 			<key>hash</key>
@@ -17421,11 +17280,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zWNNaMB30asqFNlBZYWECKoY8v0=
+			ur01u6x34Y03KDy7G3isJ7T7eNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			c/6VyyutcEWmoScFwrrzbWA/x9fEcNTvqIII2oGQYZY=
+			gHfVHJvRZ5dewMG/3zHQHYvwlc85PX09LszgJuP7B/U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17434,11 +17293,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nsqJ/skh+/FuEhBI0E5TCa3zPWQ=
+			ur01u6x34Y03KDy7G3isJ7T7eNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2Z9pThRQc+cH+8Yro0xNX5FQCMafEVfj35iChZI5weg=
+			gHfVHJvRZ5dewMG/3zHQHYvwlc85PX09LszgJuP7B/U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17453,32 +17312,6 @@
 			<data>
 			l2trd2q6iBHa6jc+4fIbGMJ9J7LbxEbvNFcWFRwVTQc=
 			</data>
-		</dict>
-		<key>en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zmV6UqBSo6r1NOz798vd5O4zTBA=
-			</data>
-			<key>hash2</key>
-			<data>
-			kmHsztpgjvF0JW5f3HdMHm49z1M0CcG8OT1JDQHHE/E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D8Y/NogUGE7m8NRmmOQoVmPtkwE=
-			</data>
-			<key>hash2</key>
-			<data>
-			VA/pUdrB8uO8xWK29H3UKiIJTzLLaJT++HOoSr+tY5w=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
