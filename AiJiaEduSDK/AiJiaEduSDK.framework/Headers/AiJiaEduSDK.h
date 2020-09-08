@@ -9,58 +9,53 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import "AiJiaEduSDKConstants.h"
+#import "AiJiaEduSDKUserInfo.h"
 
-
-//! Project version number for AiJiaEduSDK.
-FOUNDATION_EXPORT double AiJiaEduSDKVersionNumber;
-
-//! Project version string for AiJiaEduSDK.
-FOUNDATION_EXPORT const unsigned char AiJiaEduSDKVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <AiJiaEduSDK/PublicHeader.h>
-
+NS_ASSUME_NONNULL_BEGIN
 
 @interface AiJiaEduSDKInitContext : NSObject
 
 // appId
-@property (nonatomic, copy) NSString * _Nullable appId;
+@property (nonatomic, copy) NSString *appId;
 // appKey
-@property (nonatomic, copy) NSString * _Nullable appKey;
+@property (nonatomic, copy) NSString *appKey;
 // appSecret
-@property (nonatomic, copy) NSString * _Nullable appSecret;
+@property (nonatomic, copy) NSString *appSecret;
 // evn > sdk联调环境
 @property (nonatomic, assign) AiJiaEduSDKEvnType evn;
 
 @end
 
 
+typedef void (^AijiaCallBack)(BOOL success, NSString *message);
+
 @interface AiJiaEduSDK : NSObject
 
-typedef void (^AijiaCallBack)(BOOL success, NSString *_Nonnull message);
-
-
-+ (AiJiaEduSDK *_Nullable)sharedSDK;
++ (AiJiaEduSDK *)sharedSDK;
 
 // initialize
-- (void)initialize:(AiJiaEduSDKInitContext * _Nonnull)context;
+- (void)initialize:(AiJiaEduSDKInitContext *)context;
 
-// login [account为11位手机号
-- (void)login:(NSString *_Nullable)account callBack:(AijiaCallBack _Nullable)callBack;
+// login
+- (void)loginWithUserInfo:(AiJiaEduSDKUserInfo *)userInfo callBack:(AijiaCallBack)callBack;
 
 // logout
-- (void)logoutWithCallBack:(AijiaCallBack _Nullable)callBack;
+- (void)logoutWithCallBack:(AijiaCallBack)callBack;
 
 // log
 - (void)enableLog:(BOOL)enable;
 
-// 进入爱家模块【present方式】
+
+#pragma mark - // 进入爱家模块
+
+// 进入爱家模块（present方式）
 - (void)enterAJModule;
 
-// 进入爱家模块【push方式】
-- (void)enterAJModuleByWJJNavigation:(UINavigationController *_Nullable)navigationController;
+// 进入爱家模块（push方式）
+- (void)enterAJModuleByWJJNavigation:(UINavigationController *)navigationController;
 
 
-// -- for AppDelegate [必须要执行哦
+#pragma mark - // for AppDelegate [必须要执行哦
 
 // call the method in AppDelegate "- (void)applicationWillResignActive:(UIApplication *)application".
 - (void)appWillResignActive;
@@ -77,5 +72,6 @@ typedef void (^AijiaCallBack)(BOOL success, NSString *_Nonnull message);
 // call the method in AppDelegate "- (UIInterfaceOrientationMask)application:(UIApplication *)application supportedInterfaceOrientationsForWindow:(UIWindow *)window".
 - (UIInterfaceOrientationMask)supportedInterfaceOrientations;
 
-
 @end
+
+NS_ASSUME_NONNULL_END
