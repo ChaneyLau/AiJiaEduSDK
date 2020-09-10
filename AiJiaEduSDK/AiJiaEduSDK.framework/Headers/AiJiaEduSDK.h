@@ -11,67 +11,84 @@
 #import "AiJiaEduSDKConstants.h"
 #import "AiJiaEduSDKUserInfo.h"
 
-NS_ASSUME_NONNULL_BEGIN
+@interface AiJiaEduSDKNavigationBarAppearance : NSObject
 
-@interface AiJiaEduSDKInitContext : NSObject
-
-// appId
-@property (nonatomic, copy) NSString *appId;
-// appKey
-@property (nonatomic, copy) NSString *appKey;
-// appSecret
-@property (nonatomic, copy) NSString *appSecret;
-// evn > sdk联调环境
-@property (nonatomic, assign) AiJiaEduSDKEvnType evn;
+/// 标题属性 [ 默认：系统字体、size:17、黑色、加粗 ]
+@property (nullable, nonatomic, strong) NSDictionary<NSAttributedStringKey, id> *titleTextAttributes;
+/// 标题 [ 默认：“直播课堂” ]
+@property (nullable, nonatomic, copy) NSString *title;
+/// 背景图片 [ 默认：nil ]
+@property (nullable, nonatomic, strong) UIImage *backgroundImage;
+/// 背景颜色 [ 默认：白色 ]
+@property (nullable, nonatomic, strong) UIColor *backgroundColor;
+/// 返回按钮图片 [ 默认：黑色按钮 ]
+@property (nullable, nonatomic, strong) UIImage *backImage;
+/// 阴影图片 [ 默认：浅灰色横线 ]
+@property (nullable, nonatomic, strong) UIImage *shadowImage;
 
 @end
 
 
-typedef void (^AijiaCallBack)(BOOL success, NSString *message);
+@interface AiJiaEduSDKInitContext : NSObject
+
+/// appId
+@property (nonnull, nonatomic, copy) NSString *appId;
+/// appKey
+@property (nonnull, nonatomic, copy) NSString *appKey;
+/// appSecret
+@property (nonnull, nonatomic, copy) NSString *appSecret;
+/// evn > sdk联调环境
+@property (nonatomic, assign) AiJiaEduSDKEvnType evn;
+/// 导航视觉
+@property (nullable, nonatomic, strong) AiJiaEduSDKNavigationBarAppearance *appearance;
+
+@end
+
+
+typedef void (^AiJiaCallBack)(BOOL success, NSString * _Nullable message);
 
 @interface AiJiaEduSDK : NSObject
 
-+ (AiJiaEduSDK *)sharedSDK;
++ (AiJiaEduSDK *_Nonnull)sharedSDK;
 
-// initialize
-- (void)initialize:(AiJiaEduSDKInitContext *)context;
+/// initialize
+- (void)initialize:(AiJiaEduSDKInitContext *_Nonnull)context;
 
-// login
-- (void)loginWithUserInfo:(AiJiaEduSDKUserInfo *)userInfo callBack:(AijiaCallBack)callBack;
+/// login
+- (void)loginWithUserInfo:(AiJiaEduSDKUserInfo *_Nonnull)userInfo callBack:(AiJiaCallBack _Nullable)callBack;
 
-// logout
-- (void)logoutWithCallBack:(AijiaCallBack)callBack;
+/// logout
+- (void)logoutWithCallBack:(AiJiaCallBack _Nullable )callBack;
 
-// log
+/// log
 - (void)enableLog:(BOOL)enable;
 
 
 #pragma mark - // 进入爱家模块
 
-// 进入爱家模块（present方式）
+/// 进入爱家模块（present方式）
 - (void)enterAJModule;
 
-// 进入爱家模块（push方式）
-- (void)enterAJModuleByWJJNavigation:(UINavigationController *)navigationController;
+/// 进入爱家模块（push方式）
+- (void)enterAJModuleByWJJNavigation:(UINavigationController *_Nonnull)navigationController;
 
 
 #pragma mark - // for AppDelegate [必须要执行哦
 
-// call the method in AppDelegate "- (void)applicationWillResignActive:(UIApplication *)application".
+/// call the method in AppDelegate "- (void)applicationWillResignActive:(UIApplication *)application".
 - (void)appWillResignActive;
 
-// call the method in AppDelegate "- (void)applicationDidBecomeActive:(UIApplication *)application".
+/// call the method in AppDelegate "- (void)applicationDidBecomeActive:(UIApplication *)application".
 - (void)appDidBecomeActive;
 
-// call the method in AppDelegate "- (void)applicationDidEnterBackground:(UIApplication *)application".
+/// call the method in AppDelegate "- (void)applicationDidEnterBackground:(UIApplication *)application".
 - (void)appDidEnterBackgroud;
 
-// call the method in AppDelegate "- (void)applicationWillTerminate:(UIApplication *)application".
+/// call the method in AppDelegate "- (void)applicationWillTerminate:(UIApplication *)application".
 - (void)appWillTerminate;
 
-// call the method in AppDelegate "- (UIInterfaceOrientationMask)application:(UIApplication *)application supportedInterfaceOrientationsForWindow:(UIWindow *)window".
+/// call the method in AppDelegate "- (UIInterfaceOrientationMask)application:(UIApplication *)application supportedInterfaceOrientationsForWindow:(UIWindow *)window".
 - (UIInterfaceOrientationMask)supportedInterfaceOrientations;
 
 @end
 
-NS_ASSUME_NONNULL_END

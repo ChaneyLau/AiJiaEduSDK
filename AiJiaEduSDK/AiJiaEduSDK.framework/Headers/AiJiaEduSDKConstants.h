@@ -6,7 +6,7 @@
 //  Copyright © 2020 CMCC. All rights reserved.
 //
 
-// 爱家教育服务端环境类型
+/// 爱家教育服务端环境类型
 typedef NS_ENUM(NSInteger, AiJiaEduSDKEvnType) {
     AiJiaEduSDKEvnTypeOnline = 0,   // 线上
     AiJiaEduSDKEvnTypeTest,         // 测试
