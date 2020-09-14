@@ -15,6 +15,10 @@ pod 'AiJiaEduSDK'
 
 ## Release Notes
 
+### v1.0.11
+
+内部逻辑优化
+
 ### v1.0.10 
 
 开放导航视觉修改：`AiJiaEduSDKNavigationBarAppearance`

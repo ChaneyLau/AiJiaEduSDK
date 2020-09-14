@@ -13,11 +13,11 @@ NS_ASSUME_NONNULL_BEGIN
 @interface AiJiaEduSDKUserInfo : NSObject
 
 /// 用户手机号
-@property (nonatomic, copy) NSString *userPhone;
+@property (nonnull, nonatomic, copy) NSString *userPhone;
 /// 用户名称
-@property (nonatomic, copy) NSString *userName;
-/// 用户头像（网络路径
-@property (nonatomic, copy) NSString *userAvatar;
+@property (nonnull, nonatomic, copy) NSString *userName;
+/// 用户头像（网络路径）
+@property (nullable, nonatomic, copy) NSString *userAvatar;
 
 @end
 

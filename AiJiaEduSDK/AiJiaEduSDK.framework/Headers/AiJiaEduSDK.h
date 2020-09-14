@@ -14,17 +14,17 @@
 @interface AiJiaEduSDKNavigationBarAppearance : NSObject
 
 /// 标题属性 [ 默认：系统字体、size:17、黑色、加粗 ]
-@property (nullable, nonatomic, strong) NSDictionary<NSAttributedStringKey, id> *titleTextAttributes;
+@property (nonnull, nonatomic, strong) NSDictionary<NSAttributedStringKey, id> *titleTextAttributes;
 /// 标题 [ 默认：“直播课堂” ]
-@property (nullable, nonatomic, copy) NSString *title;
+@property (nonnull, nonatomic, copy) NSString *title;
 /// 背景图片 [ 默认：nil ]
-@property (nullable, nonatomic, strong) UIImage *backgroundImage;
+@property (nonnull, nonatomic, strong) UIImage *backgroundImage;
 /// 背景颜色 [ 默认：白色 ]
-@property (nullable, nonatomic, strong) UIColor *backgroundColor;
+@property (nonnull, nonatomic, strong) UIColor *backgroundColor;
 /// 返回按钮图片 [ 默认：黑色按钮 ]
-@property (nullable, nonatomic, strong) UIImage *backImage;
+@property (nonnull, nonatomic, strong) UIImage *backImage;
 /// 阴影图片 [ 默认：浅灰色横线 ]
-@property (nullable, nonatomic, strong) UIImage *shadowImage;
+@property (nonnull, nonatomic, strong) UIImage *shadowImage;
 
 @end
 
@@ -58,7 +58,7 @@ typedef void (^AiJiaCallBack)(BOOL success, NSString * _Nullable message);
 - (void)loginWithUserInfo:(AiJiaEduSDKUserInfo *_Nonnull)userInfo callBack:(AiJiaCallBack _Nullable)callBack;
 
 /// logout
-- (void)logoutWithCallBack:(AiJiaCallBack _Nullable )callBack;
+- (void)logoutWithCallBack:(AiJiaCallBack _Nullable)callBack;
 
 /// log
 - (void)enableLog:(BOOL)enable;
