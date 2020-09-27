@@ -1,7 +1,7 @@
 # AiJiaEduSDK
 
 [![CocoaPods](http://img.shields.io/cocoapods/v/AiJiaEduSDK.svg?style=flat)](http://cocoapods.org/?q=AiJiaEduSDK)&nbsp;
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/ChellyLau/AiJiaEduSDK/master/LICENSE)&nbsp;
+[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/ChaneyLau/AiJiaEduSDK/master/LICENSE)&nbsp;
 [![CocoaPods](http://img.shields.io/cocoapods/p/AiJiaEduSDK.svg?style=flat)](http://cocoapods.org/?q=AiJiaEduSDK)&nbsp;
 [![Support](https://img.shields.io/badge/support-iOS%209.0%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
 

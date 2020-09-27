@@ -1,12 +1,12 @@
 
 Pod::Spec.new do |s|
   s.name             = "AiJiaEduSDK"
-  s.version          = "1.0.12"
+  s.version          = "1.0.13"
   s.summary          = "Aijia Education SDK"
-  s.homepage         = "https://github.com/ChellyLau/AiJiaEduSDK"
+  s.homepage         = "https://github.com/ChaneyLau/AiJiaEduSDK"
   s.license          = 'MIT'
-  s.author           = { "Chelly Lau" => "1625977078@qq.com" }
-  s.source           = { :git => "https://github.com/ChellyLau/AiJiaEduSDK.git", :tag => s.version.to_s }
+  s.author           = { "Chaney Lau" => "1625977078@qq.com" }
+  s.source           = { :git => "https://github.com/ChaneyLau/AiJiaEduSDK.git", :tag => s.version.to_s }
   s.platform         = :ios, '9.0'
   s.requires_arc     = true
   
