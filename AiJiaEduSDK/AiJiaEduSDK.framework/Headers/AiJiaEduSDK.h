@@ -49,6 +49,7 @@ typedef void (^AiJiaCallBack)(BOOL success, NSString * _Nullable message);
 
 @interface AiJiaEduSDK : NSObject
 
+
 + (AiJiaEduSDK *_Nonnull)sharedSDK;
 
 /// initialize
