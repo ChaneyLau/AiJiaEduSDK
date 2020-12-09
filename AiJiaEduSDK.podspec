@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "AiJiaEduSDK"
-  s.version          = "1.0.14"
+  s.version          = "1.0.15"
   s.summary          = "AiJia Education SDK"
   s.homepage         = "https://github.com/ChaneyLau/AiJiaEduSDK"
   s.license          = 'MIT'
@@ -16,15 +16,8 @@ Pod::Spec.new do |s|
 
 
   s.dependency 'MobileRTCSDK', '4.6.5'
-  s.dependency 'JSONModel', '1.8.0'
-  s.dependency 'KSYMediaPlayer', '3.0.6'
+  s.dependency 'KSYPlayer', '3.0.4'
   s.dependency 'lottie-ios', '2.5.0'
-
-  s.dependency 'MBProgressHUD', '1.1.0'
-  s.dependency 'AFNetworking', '4.0.0'
   s.dependency 'FMDB', '2.7.5'
-  s.dependency 'Masonry', '1.1.0'
-  s.dependency 'MJRefresh', '3.2.0'
-  s.dependency 'SDWebImage', '5.2.3'
 
 end

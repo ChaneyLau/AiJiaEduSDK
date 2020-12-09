@@ -8,27 +8,27 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "AiJiaEduSDKConstants.h"
 #import "AiJiaEduSDKUserInfo.h"
 
 @interface AiJiaEduSDKNavigationBarAppearance : NSObject
 
 /// 标题属性 [ 默认：系统字体、size:17、黑色、加粗 ]
-@property (nonnull, nonatomic, strong) NSDictionary<NSAttributedStringKey, id> *titleTextAttributes;
+@property (nullable, nonatomic, strong) NSDictionary<NSAttributedStringKey, id> *titleTextAttributes;
 /// 标题 [ 默认：“直播课堂” ]
-@property (nonnull, nonatomic, copy) NSString *title;
+@property (nullable, nonatomic, copy) NSString *title;
 /// 背景图片 [ 默认：nil ]
-@property (nonnull, nonatomic, strong) UIImage *backgroundImage;
+@property (nullable, nonatomic, strong) UIImage *backgroundImage;
 /// 背景颜色 [ 默认：白色 ]
-@property (nonnull, nonatomic, strong) UIColor *backgroundColor;
+@property (nullable, nonatomic, strong) UIColor *backgroundColor;
 /// 返回按钮图片 [ 默认：黑色按钮 ]
-@property (nonnull, nonatomic, strong) UIImage *backImage;
+@property (nullable, nonatomic, strong) UIImage *backImage;
 /// 阴影图片 [ 默认：浅灰色横线 ]
-@property (nonnull, nonatomic, strong) UIImage *shadowImage;
+@property (nullable, nonatomic, strong) UIImage *shadowImage;
 
 @end
 
 
+/// call init method in AppDelegate
 @interface AiJiaEduSDKInitContext : NSObject
 
 /// appId
@@ -37,8 +37,6 @@
 @property (nonnull, nonatomic, copy) NSString *appKey;
 /// appSecret
 @property (nonnull, nonatomic, copy) NSString *appSecret;
-/// evn > sdk联调环境
-@property (nonatomic, assign) AiJiaEduSDKEvnType evn;
 /// 导航视觉
 @property (nullable, nonatomic, strong) AiJiaEduSDKNavigationBarAppearance *appearance;
 
@@ -65,16 +63,13 @@ typedef void (^AiJiaCallBack)(BOOL success, NSString * _Nullable message);
 - (void)enableLog:(BOOL)enable;
 
 
-#pragma mark - // 进入爱家模块
+#pragma mark - 进入爱家模块
 
-/// 进入爱家模块（present方式）
-- (void)enterAJModule;
-
-/// 进入爱家模块（push方式）
-- (void)enterAJModuleByWJJNavigation:(UINavigationController *_Nonnull)navigationController;
+/// 进入爱家模块
+- (void)enterAJModuleByRootNavigation:(UINavigationController *_Nonnull)navigationController;
 
 
-#pragma mark - // for AppDelegate [必须要执行哦
+#pragma mark - for AppDelegate [必须要执行哦
 
 /// call the method in AppDelegate "- (void)applicationWillResignActive:(UIApplication *)application".
 - (void)appWillResignActive;

@@ -266,11 +266,7 @@
 		</data>
 		<key>Headers/AiJiaEduSDK.h</key>
 		<data>
-		AI7hev8TJWAhmNIKr+ayFK7DtVQ=
-		</data>
-		<key>Headers/AiJiaEduSDKConstants.h</key>
-		<data>
-		fMDJksukL68RcNVPTmAuttK8bmY=
+		ZkuLnOfET+/S98BgGKNH4rCKuPo=
 		</data>
 		<key>Headers/AiJiaEduSDKUserInfo.h</key>
 		<data>
@@ -278,48 +274,8 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oAA8h89pHSuNEOu2rYuYzh4ks0I=
+		y5mXM/yL4iIo/rfT0zAIni295RY=
 		</data>
-		<key>MJRefresh.bundle/arrow@2x.png</key>
-		<data>
-		5ZENFuDcEgHjDuL7tn7h97HeuSE=
-		</data>
-		<key>MJRefresh.bundle/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KQHJxiCxikpJx3GEz3x/uldyTBk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HlQTgD96vdwvNFwCCXYwug5vWq0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DD5bNeaUTksFP2PkSNtokoJkKjU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hjIzn4qLs8xLMnelxOeMouDSaZY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>MobileRTCResources.bundle/AddressViewReload.png</key>
 		<data>
 		RlxfMN7d0MPzpCpn4Low+7+u76M=
@@ -5492,22 +5448,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AI7hev8TJWAhmNIKr+ayFK7DtVQ=
+			ZkuLnOfET+/S98BgGKNH4rCKuPo=
 			</data>
 			<key>hash2</key>
 			<data>
-			6w5UWCXZjcKntxNOcvW48ujH6d5niUTjvrfHf5tw6jE=
-			</data>
-		</dict>
-		<key>Headers/AiJiaEduSDKConstants.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fMDJksukL68RcNVPTmAuttK8bmY=
-			</data>
-			<key>hash2</key>
-			<data>
-			YybbKFEAWYi6Tetm4zN62QmDgKt5v9SJTDHBSJsQ0k4=
+			w/UlVegHrNQPZHMYrQpL77CqnKBcF90sU1e7EzVKgnI=
 			</data>
 		</dict>
 		<key>Headers/AiJiaEduSDKUserInfo.h</key>
@@ -5520,69 +5465,6 @@
 			<data>
 			BsqMT0O/lKLYQZez6TZAFJQlKGdL1jHfp8EDsDO9qL0=
 			</data>
-		</dict>
-		<key>MJRefresh.bundle/arrow@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5ZENFuDcEgHjDuL7tn7h97HeuSE=
-			</data>
-			<key>hash2</key>
-			<data>
-			5pZTVM6xOoz5TmObI4Nq10XxwWgOr9sM2We8r8FZAYg=
-			</data>
-		</dict>
-		<key>MJRefresh.bundle/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KQHJxiCxikpJx3GEz3x/uldyTBk=
-			</data>
-			<key>hash2</key>
-			<data>
-			uH1w/EXy8xgq9Jt5Z/RASzrSw17Jg6sWdycV360D1WA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HlQTgD96vdwvNFwCCXYwug5vWq0=
-			</data>
-			<key>hash2</key>
-			<data>
-			Xlf+q1uxWuvZYubG/vIYmehX5T7lPlNQUb+PHjh0pBk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DD5bNeaUTksFP2PkSNtokoJkKjU=
-			</data>
-			<key>hash2</key>
-			<data>
-			5c2ENj+vfMLxJOnUypY2dhJ3O8hGg7P3PaWrgwX+G0I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hjIzn4qLs8xLMnelxOeMouDSaZY=
-			</data>
-			<key>hash2</key>
-			<data>
-			AteA9vw+ofnahB0RNbonkmUulQC5Co8UvNf/1MwU7a4=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>MobileRTCResources.bundle/AddressViewReload.png</key>
 		<dict>
