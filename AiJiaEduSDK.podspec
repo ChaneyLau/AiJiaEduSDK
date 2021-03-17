@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "AiJiaEduSDK"
-  s.version          = "1.0.15"
+  s.version          = "1.1.0"
   s.summary          = "AiJia Education SDK"
   s.homepage         = "https://github.com/ChaneyLau/AiJiaEduSDK"
   s.license          = 'MIT'

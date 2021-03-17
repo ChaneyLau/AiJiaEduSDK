@@ -4,25 +4,49 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AiJiaEduSDKResources.bundle/brightness_high@2x.png</key>
+		<data>
+		vfyzOiK5aPrkJ5McBehwdIeT/1A=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/brightness_high@3x.png</key>
+		<data>
+		67F+/f1RkSnWqkD7hFPh4hAH2sQ=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/brightness_low@2x.png</key>
+		<data>
+		V1pWuJxoULT2BnO8HwN5ZxlevGA=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/brightness_low@3x.png</key>
+		<data>
+		LveEtRiPgY4uZa3Asg+3/U9HVkE=
+		</data>
 		<key>AiJiaEduSDKResources.bundle/chat_clap@2x.png</key>
 		<data>
-		xm2reSNelvWCLz1M2sSvhKMGvjU=
+		TlfOMKbsYjnPjVzOjxxrXzKlTXk=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/chat_cup@2x.png</key>
 		<data>
-		e1xU/u7wneG6yyuvDTf3PtNTDaE=
+		Xa8IjOdogg0fwDLXSvffEYxy9t8=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/chat_flower@2x.png</key>
 		<data>
-		MQ/1MopTAtWN+Tfq6naMxarQnJI=
+		OgKDqPu6Bolh4UUfSQnbASZsXuM=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/chat_like@2x.png</key>
 		<data>
-		c644we1W2Yg4jUYH+fA2ax+9vo8=
+		ZmpQTz1bmxYO4zgj12U/Pmcf9V4=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/course_all_empty@2x.png</key>
 		<data>
-		Ua2mRArX85Bo4vy5zXI3LfIJDks=
+		v7c4nJOnTmN3tfq8Ix0LR1ASAY4=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/course_cup@2x.png</key>
+		<data>
+		JDl9pxTEmiV7mNPUn8vf/hcmNwg=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/course_cup@3x.png</key>
+		<data>
+		3l3ExH/LMbVUi3hu4grZSSUYM88=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/course_empty@2x.png</key>
 		<data>
@@ -31,6 +55,22 @@
 		<key>AiJiaEduSDKResources.bundle/course_enter@2x.png</key>
 		<data>
 		D3X6z5gX9j+Zz8kLVlipoyw7Kvc=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/course_nocup@2x.png</key>
+		<data>
+		cXVT2o2cBCjv+jg9Ivck+DT1ddI=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/course_nocup@3x.png</key>
+		<data>
+		fS0KGzBMedk4/Q+A1DGVZcz5wUY=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/course_playback@2x.png</key>
+		<data>
+		auy//I/GRO7brj6MTIzIpA+21H0=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/course_playback@3x.png</key>
+		<data>
+		2STxFNN90vy4nBaXzucI9FnggDM=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/course_playing.gif</key>
 		<data>
@@ -43,6 +83,14 @@
 		<key>AiJiaEduSDKResources.bundle/course_refresh@2x.png</key>
 		<data>
 		zmd3SH6bYjZ52pC+sch7A9fqsMw=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/course_scup@2x.png</key>
+		<data>
+		UE5aglZQsajEEpkr07sNVF/0p4o=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/course_scup@3x.png</key>
+		<data>
+		wjbAIBwsK+BeD1zBqLzPJU4CaGs=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/course_student@2x.png</key>
 		<data>
@@ -144,6 +192,22 @@
 		<data>
 		i7aNt6WYCVJw3ouj75GHtzn7nXI=
 		</data>
+		<key>AiJiaEduSDKResources.bundle/gif_flow.bundle/gif_flow.json</key>
+		<data>
+		Gp0cjdjU0c3OMlDUC+QQIkpz8I0=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/gif_flow.bundle/img_0.png</key>
+		<data>
+		fhikSgWObdrHZ9nCTo7IP3QArf8=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/gif_flow.bundle/img_1.png</key>
+		<data>
+		ucRn3lcuCaqOlZYt/AZrkehGLmI=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/gif_flow.bundle/img_2.png</key>
+		<data>
+		H7Jb9aQsyha6u7igPdd0f4Sj/yU=
+		</data>
 		<key>AiJiaEduSDKResources.bundle/gif_like.bundle/gif_like.json</key>
 		<data>
 		q4pWjLheRCqaK0RQDBuMaNRm0Z4=
@@ -158,11 +222,11 @@
 		</data>
 		<key>AiJiaEduSDKResources.bundle/hud_error@2x.png</key>
 		<data>
-		Yvf+JS4nqlz7Sx6mwtm+3COaKBM=
+		EWuksn3cKj6fyeJrNyqF9rb+tPg=
 		</data>
-		<key>AiJiaEduSDKResources.bundle/hud_succeed@2x.png</key>
+		<key>AiJiaEduSDKResources.bundle/hud_success@2x.png</key>
 		<data>
-		jf6TwgZtsHvSwr6gLKQ/D1mDfEg=
+		x39bIYFONBvCY66QPQtdDrZanzo=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/live_bg@2x.png</key>
 		<data>
@@ -184,9 +248,29 @@
 		<data>
 		pQNkdqVEyncSi8TPycex3hL6P+Y=
 		</data>
-		<key>AiJiaEduSDKResources.bundle/live_portrait_tip@2x.png</key>
+		<key>AiJiaEduSDKResources.bundle/member_cup_num@2x.png</key>
 		<data>
-		/9cQ2PeK63x6hvtma4OWzJq2qbg=
+		U0cs672idfWNvgJAgBEUZ+GsdoE=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/member_cup_num@3x.png</key>
+		<data>
+		zfFE4jy4XMzZRZtnwkfNnMW27+k=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/member_hand@2x.png</key>
+		<data>
+		0mX8FuN/03LPggIxudIBUiEF864=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/member_hand@3x.png</key>
+		<data>
+		ROuYuqjGZKqX3g2tXok2xJxJJCQ=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/member_hide@2x.png</key>
+		<data>
+		Rb8ttzdJXib/yeCwXnuFpFeHhz8=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/member_hide@3x.png</key>
+		<data>
+		BIGeIyCJCgByoPRsBO9Z9VuwZq8=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/member_info@2x.png</key>
 		<data>
@@ -212,45 +296,181 @@
 		<data>
 		FksMhNjJTqQYLyttH3DaSapxPiE=
 		</data>
+		<key>AiJiaEduSDKResources.bundle/member_raise_hand@2x.png</key>
+		<data>
+		AVhBeikxm8LYAT2Mu4MHb3ZXsmE=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/member_show@2x.png</key>
+		<data>
+		u2ladC33Abc/uTgI7oy57XFy3bQ=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/member_top@2x.png</key>
+		<data>
+		IGuzhAV3kRLpSyvEj7+DyUd7L+0=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/member_top@3x.png</key>
+		<data>
+		zhuMHatRnCTMJ+xNxQsazBlRs8w=
+		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_audio_close@2x.png</key>
 		<data>
-		RnBikSeHojfMaM1onCLQMBMTdi0=
+		6Po/hAjhPP5yI+apfzdgGLwj9/k=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_audio_close@3x.png</key>
 		<data>
-		z4Jy174xPrpa6Cs+IBrPLhPGR0o=
+		MP8GfXO/H2vR2FazAij9iAZ4qw8=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_audio_open@2x.png</key>
 		<data>
-		1HWE/MFZF1Vn8n9EBNJHOZJOVpI=
+		7N7CJy4VYWxnn2NSzfEg5Zf3ccc=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_audio_open@3x.png</key>
 		<data>
-		MSiSJwkJvjhkkpafWBs1FYqaC1c=
+		JB4teTFjeERIxPnPpLB1RI1RfU8=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_chat@2x.png</key>
 		<data>
-		eRHq+ELpsZV7UelWQGdEKIkHBA8=
+		Qv34yvx742pDVZ3c6CBDZz63hCw=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_chat@3x.png</key>
 		<data>
-		FMHRoBCL+xBfen99YuHNB7s6tgw=
+		W1CjpsmiE48uAM9Upi+T2TY8kz0=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_low_hand@2x.png</key>
+		<data>
+		C/SYIJtAxuI8vxFb2uQyEU3apkc=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_low_hand@3x.png</key>
+		<data>
+		gwkXo+N134rbw+GXHuh9/hPjofE=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_praise@2x.png</key>
+		<data>
+		isLYnQUbfGiTHhp3HDDyjilG6dM=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_praise@3x.png</key>
+		<data>
+		YuDF97EWlxlQfvICYRq6yX1plyg=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_raise_hand@2x.png</key>
+		<data>
+		p8LdN95T9XZbRNjTxqi03JAMljA=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_raise_hand@3x.png</key>
+		<data>
+		q9llfdSpDJUv2ZaJQBB8T2xkEp8=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_screenshot@2x.png</key>
+		<data>
+		NermQftYDG/4/E6Y8WbP08BM/OQ=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_screenshot@3x.png</key>
+		<data>
+		V6VqbD/uy6AniiB3MPa/vQknyiM=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_send_flowers@2x.png</key>
+		<data>
+		spDOCbzR4lAUQTJsFA62NxrHT+s=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/menu_send_flowers@3x.png</key>
+		<data>
+		jYqzUQUvXfdFsf+TyVFMP3EXR54=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_video_close@2x.png</key>
 		<data>
-		Kvnp6npV99jlgnFdxQHjGFDogI0=
+		NlZXckMfhKc8maubd5poBFQPpec=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_video_close@3x.png</key>
 		<data>
-		Gmlle9BUCJTezKjuXY5JiEMf6sw=
+		dxY83M/S814dOPP31AiwgesWDu0=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_video_open@2x.png</key>
 		<data>
-		F1FAFEhKKILImTU43Foflkep9JY=
+		tXNnIug98PbtfIb0VeQ4RSXLJI4=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/menu_video_open@3x.png</key>
 		<data>
-		98mcL/ZDStENwfzatU3qFl6tBdE=
+		8EH9dDsRLHjouFCAnm1rjhdh7N0=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/newtip_bubble@2x.png</key>
+		<data>
+		/9NfRHZuLKTBa66W5L5sdv4iykg=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/newtip_left@2x.png</key>
+		<data>
+		tGJmn8m6QvOO15ndCUD74TMPeBY=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/newtip_left@3x.png</key>
+		<data>
+		vCMQzzQ5TiLVtEDWc/2n+dEvkXA=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/newtip_right@2x.png</key>
+		<data>
+		8UHmnZEeofGplg12KOQZaLo0YdU=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/newtip_right@3x.png</key>
+		<data>
+		LtEHb7gVZ/hLXKu5tZzwapPWl10=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_bottom@2x.png</key>
+		<data>
+		GUtCevzFixxltdekv75uz5eZ39Q=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_line@2x.png</key>
+		<data>
+		Hr37ijL9XHIxlAOy+KsUir4GPaI=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_line@3x.png</key>
+		<data>
+		uFhHNa3+tCCwO2sDfSyosSFC/gk=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_next@2x.png</key>
+		<data>
+		7bmZb1Ic9h7FoqLKxgtZInqs/Ws=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_next@3x.png</key>
+		<data>
+		mEIiyfTSeAEH++wEmTfKtmziNX8=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_next_disable@2x.png</key>
+		<data>
+		DgXH6XoxqdBBbl/cxpy/rscBod4=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_next_disable@3x.png</key>
+		<data>
+		tZLateyj5QaPZ8ZCRt8ry1u/ohk=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_pause@2x.png</key>
+		<data>
+		XbrO8O3cV3XDwdhnOpHF0zw2Rdc=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_pause@3x.png</key>
+		<data>
+		NUYw6ra5DqEShaS0wDF5LkjN+lg=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_play@2x.png</key>
+		<data>
+		UYMZ0Wce8M7Qkn08XdEkQMrckzI=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_play@3x.png</key>
+		<data>
+		Ycof8UKpCNIiP+0F1XHVDpQXQZI=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_playing@2x.png</key>
+		<data>
+		bnSa/qLk8PrkEYKUA9RcZx8PvE8=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_playing@3x.png</key>
+		<data>
+		UxCdHHuHKWEJaSaPOMcBKC3ymC4=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_slider@2x.png</key>
+		<data>
+		WNk/AUNW1dZtrU8GApkSbsj7pMk=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/playback_top@2x.png</key>
+		<data>
+		TI+Fp8E1E0M9jKmo0St6sV3xs3Q=
 		</data>
 		<key>AiJiaEduSDKResources.bundle/player_live@2x.png</key>
 		<data>
@@ -264,6 +484,30 @@
 		<data>
 		Mm6wSgdTcyY4sQF+TeQ5RoajQmE=
 		</data>
+		<key>AiJiaEduSDKResources.bundle/volume_high@2x.png</key>
+		<data>
+		QhXa2SbQy+BuzIl28mwtRDB3eFw=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/volume_high@3x.png</key>
+		<data>
+		+iZFnSxK2sU8g7jdA68/M2wMlhg=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/volume_low@2x.png</key>
+		<data>
+		TIk0oXYLQs2mrmt7axQqtc7Ql1c=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/volume_low@3x.png</key>
+		<data>
+		RrJ9Lh/4uEXWmFPnlqI0TRDQX/w=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/volume_muted@2x.png</key>
+		<data>
+		ZrpJa68Bg+H6DEUXOoV0nxMoqP8=
+		</data>
+		<key>AiJiaEduSDKResources.bundle/volume_muted@3x.png</key>
+		<data>
+		Cueg/DpwPqosd/QxVxpq7B+7vx4=
+		</data>
 		<key>Headers/AiJiaEduSDK.h</key>
 		<data>
 		ZkuLnOfET+/S98BgGKNH4rCKuPo=
@@ -274,7 +518,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y5mXM/yL4iIo/rfT0zAIni295RY=
+		TJrdfB9B7FYWLuH98nEq6rxOnUs=
 		</data>
 		<key>MobileRTCResources.bundle/AddressViewReload.png</key>
 		<data>
@@ -4729,59 +4973,125 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AiJiaEduSDKResources.bundle/brightness_high@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vfyzOiK5aPrkJ5McBehwdIeT/1A=
+			</data>
+			<key>hash2</key>
+			<data>
+			8HGrA0eMSKzMBxXL6nT0kBDpesx0EFh3kBqUz3rSNB8=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/brightness_high@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			67F+/f1RkSnWqkD7hFPh4hAH2sQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			b4QrcykBt0e5eDYTHbAkuMfico07OgvQRipI4rdVMdw=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/brightness_low@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V1pWuJxoULT2BnO8HwN5ZxlevGA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kv05XS2PG2MHiyFnCoVBg72g2P63t0wkACeMDCArmcU=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/brightness_low@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LveEtRiPgY4uZa3Asg+3/U9HVkE=
+			</data>
+			<key>hash2</key>
+			<data>
+			dD9bosOhZ+02Lt3nRirYnD8RepZYvq86eLOExQlQMP4=
+			</data>
+		</dict>
 		<key>AiJiaEduSDKResources.bundle/chat_clap@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xm2reSNelvWCLz1M2sSvhKMGvjU=
+			TlfOMKbsYjnPjVzOjxxrXzKlTXk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y0+qR2IWSmqcMAbcZPxYBQMuBdG/9U++eLnGeD92Lvw=
+			OPMB/z9G7tSgX/ogsCKkxV96c0wgEhgKdIoHvs74qrg=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/chat_cup@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e1xU/u7wneG6yyuvDTf3PtNTDaE=
+			Xa8IjOdogg0fwDLXSvffEYxy9t8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ShrFbZSRRoC8QXkFkDGECpkgenymeogSysB4b4BQJMk=
+			PhGDLYWv/2ZBDFRJTNMZsGB8Im4bKE3smJN4tiATLkI=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/chat_flower@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MQ/1MopTAtWN+Tfq6naMxarQnJI=
+			OgKDqPu6Bolh4UUfSQnbASZsXuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VgWZj5acHcBJgaHQt/45wBvFP5iftjb28MDSguCk/RQ=
+			WBGKJfhse5dselxCFqzyVlFg9Rrt+udYSKao9YacMPA=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/chat_like@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c644we1W2Yg4jUYH+fA2ax+9vo8=
+			ZmpQTz1bmxYO4zgj12U/Pmcf9V4=
 			</data>
 			<key>hash2</key>
 			<data>
-			DuW+fCs8a/CtKin+cf+tdEAzhhwqJRjtJBPfj8wwL6I=
+			ReoDyRJxurTTey9FZSjm28b1PvDBoimY2ZvD50LGNGs=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/course_all_empty@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ua2mRArX85Bo4vy5zXI3LfIJDks=
+			v7c4nJOnTmN3tfq8Ix0LR1ASAY4=
 			</data>
 			<key>hash2</key>
 			<data>
-			R5Baqyie+6zpblTbowIaxvTZjxQdGrVc2cLE3peh64o=
+			+ax4ZBfsqx4/5Wa2MWb7wsGpJ12ot+DTDvu0fS209/M=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_cup@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JDl9pxTEmiV7mNPUn8vf/hcmNwg=
+			</data>
+			<key>hash2</key>
+			<data>
+			tgjhCtHSYWmPoT6P8tK5pjKI5CWH48LcXM31zIFZPlE=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_cup@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3l3ExH/LMbVUi3hu4grZSSUYM88=
+			</data>
+			<key>hash2</key>
+			<data>
+			/aA4zkdOytNxAMHEFZbz+b4KonVWIId1CiEJbx3yzr8=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/course_empty@2x.png</key>
@@ -4804,6 +5114,50 @@
 			<key>hash2</key>
 			<data>
 			29M9uSgkbSBZHc5AiIzGXaS9WdlDs7Pi31pQRMgF270=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_nocup@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cXVT2o2cBCjv+jg9Ivck+DT1ddI=
+			</data>
+			<key>hash2</key>
+			<data>
+			r9tcn5MAOkE2y3+nkLanBSYNF8v0TmjCnKhdXUejUwM=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_nocup@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fS0KGzBMedk4/Q+A1DGVZcz5wUY=
+			</data>
+			<key>hash2</key>
+			<data>
+			jC2jpiTsbjq25BmneW8HqPjTyvugxzoPxqlq3cTuK6E=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_playback@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			auy//I/GRO7brj6MTIzIpA+21H0=
+			</data>
+			<key>hash2</key>
+			<data>
+			FofZ7zQXJ4Hg9n0ZmC+2f2qizFTCD6F2MzStltZcfAA=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_playback@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2STxFNN90vy4nBaXzucI9FnggDM=
+			</data>
+			<key>hash2</key>
+			<data>
+			W9p3YJW5TipQ77QXgALqCp3Ur4zuNHGpU39M97bUU/8=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/course_playing.gif</key>
@@ -4837,6 +5191,28 @@
 			<key>hash2</key>
 			<data>
 			wdFf71Lu3sP9R8V4ylzjfurRXSCSNSNSahIxU9xdtkU=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_scup@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UE5aglZQsajEEpkr07sNVF/0p4o=
+			</data>
+			<key>hash2</key>
+			<data>
+			MNAS5VLeyH9GD8RS5sYgDl1OJhBqy4rmJ2T3N8Ty7BI=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/course_scup@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wjbAIBwsK+BeD1zBqLzPJU4CaGs=
+			</data>
+			<key>hash2</key>
+			<data>
+			if0lShXi3qyQX50TXx/W21V/9AoSCeKLJqOog5ClDzA=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/course_student@2x.png</key>
@@ -5114,6 +5490,50 @@
 			sqPKa57u5LtXhe7a1/+dvWKvg5yZC8hvhY7nsy/v9XM=
 			</data>
 		</dict>
+		<key>AiJiaEduSDKResources.bundle/gif_flow.bundle/gif_flow.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gp0cjdjU0c3OMlDUC+QQIkpz8I0=
+			</data>
+			<key>hash2</key>
+			<data>
+			93PpECNfUk16TmVkcDtqaVekWrCd1SZ8FOimr33Enlk=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/gif_flow.bundle/img_0.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fhikSgWObdrHZ9nCTo7IP3QArf8=
+			</data>
+			<key>hash2</key>
+			<data>
+			fi2F3UGmKQpN1CpT86wIdKAF1dljcXA/RyzQ8XErWYY=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/gif_flow.bundle/img_1.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ucRn3lcuCaqOlZYt/AZrkehGLmI=
+			</data>
+			<key>hash2</key>
+			<data>
+			yx5/khJH/1wLrKp300Mi4vqtO5MDvkT6BLfO/Ntqivk=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/gif_flow.bundle/img_2.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H7Jb9aQsyha6u7igPdd0f4Sj/yU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z4UOPLJrcTzWB+NIg7b4BDrj4111UuUj7oE2yCbf6XY=
+			</data>
+		</dict>
 		<key>AiJiaEduSDKResources.bundle/gif_like.bundle/gif_like.json</key>
 		<dict>
 			<key>hash</key>
@@ -5151,22 +5571,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yvf+JS4nqlz7Sx6mwtm+3COaKBM=
+			EWuksn3cKj6fyeJrNyqF9rb+tPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ERgp2fuz5/QFfLGtICU/Lk5f21sUd73jl/bx7HwNiYE=
+			7pkohxnqIcBBxNTSpRzHvwdkIDsU7Z3iIomgEmUa+P8=
 			</data>
 		</dict>
-		<key>AiJiaEduSDKResources.bundle/hud_succeed@2x.png</key>
+		<key>AiJiaEduSDKResources.bundle/hud_success@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jf6TwgZtsHvSwr6gLKQ/D1mDfEg=
+			x39bIYFONBvCY66QPQtdDrZanzo=
 			</data>
 			<key>hash2</key>
 			<data>
-			r9XcvVWsXl+IkgLGgb1GhR3diyGRAIiNluQ0Suge8pM=
+			1pUobbTKF94LCYwFWQ96kHvI7KSwwFc6F0Dls7haopI=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/live_bg@2x.png</key>
@@ -5224,15 +5644,70 @@
 			pgKjf3/dEtW5cDdGxjDrLLxyJAAbWFzYSKdxN3lDHDU=
 			</data>
 		</dict>
-		<key>AiJiaEduSDKResources.bundle/live_portrait_tip@2x.png</key>
+		<key>AiJiaEduSDKResources.bundle/member_cup_num@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/9cQ2PeK63x6hvtma4OWzJq2qbg=
+			U0cs672idfWNvgJAgBEUZ+GsdoE=
 			</data>
 			<key>hash2</key>
 			<data>
-			KGaCL4CW9AJ1puhxv9NGIpWe+xypcVKuBuzHnVyYEHI=
+			jQOdxoje5bie9n64PVOR1mgJdIs9iF6toxTNMjeM81I=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_cup_num@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zfFE4jy4XMzZRZtnwkfNnMW27+k=
+			</data>
+			<key>hash2</key>
+			<data>
+			cEiaTfFWDgWYIphGIWZ2ExgwHOs8b9KconqPtzN073Q=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_hand@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0mX8FuN/03LPggIxudIBUiEF864=
+			</data>
+			<key>hash2</key>
+			<data>
+			2DAjDsIfNLfMns8id3QESTW9y3TKhGzw0CIh69fxDUo=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_hand@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ROuYuqjGZKqX3g2tXok2xJxJJCQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			TcOvVyIIfaBWO/opIRuuER9nQ0W4dtOPxTwNCCLbvm0=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_hide@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Rb8ttzdJXib/yeCwXnuFpFeHhz8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Gi0W8jMGFCXa8bmKiiVjn+0VFbpTKy3WHCGp6R5ALCE=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_hide@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BIGeIyCJCgByoPRsBO9Z9VuwZq8=
+			</data>
+			<key>hash2</key>
+			<data>
+			AmzFmklHwhAPZrIOjN4M7JGUIYhFfo5g1M1OXJ5X2gc=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/member_info@2x.png</key>
@@ -5301,114 +5776,488 @@
 			/efvRHw76Ts+Y5TLBO+JQuaBD3E39fJBLuPaopvPvxE=
 			</data>
 		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_raise_hand@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AVhBeikxm8LYAT2Mu4MHb3ZXsmE=
+			</data>
+			<key>hash2</key>
+			<data>
+			2DltYvYBA+wKVHwCyjoyFeXvkvpVNqEAYPFbD98sqis=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_show@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u2ladC33Abc/uTgI7oy57XFy3bQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			EscJ/TlyDZMkcN9F94kh8vMs7Nkqyoyc064XmEYKdAM=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_top@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IGuzhAV3kRLpSyvEj7+DyUd7L+0=
+			</data>
+			<key>hash2</key>
+			<data>
+			+ZhoGrndGlLDUepG5ClKDYINvlT/l3xpugRIgmRXizA=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/member_top@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zhuMHatRnCTMJ+xNxQsazBlRs8w=
+			</data>
+			<key>hash2</key>
+			<data>
+			juVCeTsUePcX+Jwckik9z5FcBdwDoLuT2NTvkpplVKc=
+			</data>
+		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_audio_close@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RnBikSeHojfMaM1onCLQMBMTdi0=
+			6Po/hAjhPP5yI+apfzdgGLwj9/k=
 			</data>
 			<key>hash2</key>
 			<data>
-			ca8TwCYgaRd/eF58Lf5v8yaC9qibKMXewPexGoEAHZI=
+			Iv0CQt693rAgz4I6ESQO21y/wnqfkOCeHTNGdB7i1vc=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_audio_close@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z4Jy174xPrpa6Cs+IBrPLhPGR0o=
+			MP8GfXO/H2vR2FazAij9iAZ4qw8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jvy81d9hZkKjgDaW2NEKBImIxW6W2KgKNvOplYSCIwY=
+			FFBEipjm1mds2ham2t7RXdMcaAWJiKsi4OQzzUGEaJw=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_audio_open@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1HWE/MFZF1Vn8n9EBNJHOZJOVpI=
+			7N7CJy4VYWxnn2NSzfEg5Zf3ccc=
 			</data>
 			<key>hash2</key>
 			<data>
-			P2/OjJ4jQU39rOI7Mu+RcVXnEuq2oGsN4V36XapjI7g=
+			b11goAT7hX/mGYJLal0BX8AZ40I8Pk1/k+TAAa85mqk=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_audio_open@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MSiSJwkJvjhkkpafWBs1FYqaC1c=
+			JB4teTFjeERIxPnPpLB1RI1RfU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AdUyKA1luYdmxUwe52awjl0noB2ZvbqlMaN09aUssd8=
+			4CWYyhve8BIqJnqcWZj9j6aAnIT/cU2y9r6UMi6UqD8=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_chat@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eRHq+ELpsZV7UelWQGdEKIkHBA8=
+			Qv34yvx742pDVZ3c6CBDZz63hCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			dnrmAThdsykJvEu0RuqNN4xnMX5r3Jr8e8GeAFbYxTo=
+			2D94F4VAv6cJmQaKt9IYAOxNJQZgrZyGfRAy0NZojx8=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_chat@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FMHRoBCL+xBfen99YuHNB7s6tgw=
+			W1CjpsmiE48uAM9Upi+T2TY8kz0=
 			</data>
 			<key>hash2</key>
 			<data>
-			JLw5QxNRQ2EOBOnoiWwsA7iOXgGK2YBElgmRGExBYCE=
+			a5MMCxKBDmX4//vedKwa0BN2nBpzn3Uh4gzYs6gFJvQ=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_low_hand@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C/SYIJtAxuI8vxFb2uQyEU3apkc=
+			</data>
+			<key>hash2</key>
+			<data>
+			acZymSVet7RgjXefoDMjpJV+kOzpsXc5PBFXwzK1AFk=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_low_hand@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gwkXo+N134rbw+GXHuh9/hPjofE=
+			</data>
+			<key>hash2</key>
+			<data>
+			do70Y1+ZihtksWtWVwOXN3C7aMiIziA6uudN93RCXKc=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_praise@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			isLYnQUbfGiTHhp3HDDyjilG6dM=
+			</data>
+			<key>hash2</key>
+			<data>
+			uQfCgpd9pl5KPeCXHVJ0cOF7NnGtlb+4YxjXqJXl6D0=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_praise@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YuDF97EWlxlQfvICYRq6yX1plyg=
+			</data>
+			<key>hash2</key>
+			<data>
+			WeyXNkFKGFL17t5wbCFRFhbIy42/lSvGjCOewwNtaCk=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_raise_hand@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p8LdN95T9XZbRNjTxqi03JAMljA=
+			</data>
+			<key>hash2</key>
+			<data>
+			8ZLdDwU4Ny+yo9v7RYq97PBfRODjm33YAwk9W+r97aQ=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_raise_hand@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q9llfdSpDJUv2ZaJQBB8T2xkEp8=
+			</data>
+			<key>hash2</key>
+			<data>
+			byh9osjtKH1OY+pYHXeamr0xVSXKbwJkzQ9z0ouPIvw=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_screenshot@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NermQftYDG/4/E6Y8WbP08BM/OQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			TotToX2QIt2iE4AEf7L2cuIRUAy2WWhrSM/t7px2MmI=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_screenshot@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V6VqbD/uy6AniiB3MPa/vQknyiM=
+			</data>
+			<key>hash2</key>
+			<data>
+			5qSKkF1oJjvWNbJDs0r75JejxSjt+p0hQIFZ2IqECAM=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_send_flowers@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			spDOCbzR4lAUQTJsFA62NxrHT+s=
+			</data>
+			<key>hash2</key>
+			<data>
+			PYCwWFrMqRuHuuA1RucYE1nEY/Phoa27KON/jfdUVdA=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/menu_send_flowers@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jYqzUQUvXfdFsf+TyVFMP3EXR54=
+			</data>
+			<key>hash2</key>
+			<data>
+			rvEQ6GQxTOj4URVExNGLwktxGy+caRo+aa0z9ucTEA8=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_video_close@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kvnp6npV99jlgnFdxQHjGFDogI0=
+			NlZXckMfhKc8maubd5poBFQPpec=
 			</data>
 			<key>hash2</key>
 			<data>
-			qAbTdKwf5AL4q821Il/nHnwpMEzA91mxFyTm0ZLSBK0=
+			Sq2Q2Qx3898L3HYyJ/QQz5qLHLYDswDS8rb2Rve0VWM=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_video_close@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gmlle9BUCJTezKjuXY5JiEMf6sw=
+			dxY83M/S814dOPP31AiwgesWDu0=
 			</data>
 			<key>hash2</key>
 			<data>
-			JoYqJSKPKhxpxp5rhz2KNT1c+HVnhKPTrho42RwhuAw=
+			Unmm5bsQDV8BedG47fABdoEWLpVRcSCxs/TV5+817nU=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_video_open@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			F1FAFEhKKILImTU43Foflkep9JY=
+			tXNnIug98PbtfIb0VeQ4RSXLJI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			XPF3xgkCx7/sl9eLFluMe5uNVhCBfFV/dVB/Gz3Pnrg=
+			IKNOR8HOis9P6SiZ63t1LXVAovgvecUxisYSH9MhSXM=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/menu_video_open@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			98mcL/ZDStENwfzatU3qFl6tBdE=
+			8EH9dDsRLHjouFCAnm1rjhdh7N0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nb5VMkbRHn+gb0Gglc2+AJ/YMDkl050C9ucZ1vAYJ/w=
+			SJKlA3MsfYvAcJl12sECORAJQjW+UBe6aNPF7sSwLZk=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/newtip_bubble@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/9NfRHZuLKTBa66W5L5sdv4iykg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ABcQpSan7vzTV4IArgBR95OBLI+XVDP08VPbHCw2EiM=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/newtip_left@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tGJmn8m6QvOO15ndCUD74TMPeBY=
+			</data>
+			<key>hash2</key>
+			<data>
+			T96e1IygIH4PzT4AneYvllkMSNLI9NVA3gAqDlDmxCc=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/newtip_left@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vCMQzzQ5TiLVtEDWc/2n+dEvkXA=
+			</data>
+			<key>hash2</key>
+			<data>
+			qw+DVRYQm92C2h2u7w+WTm4Zor0Oej4rYeM6B+HrEBI=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/newtip_right@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8UHmnZEeofGplg12KOQZaLo0YdU=
+			</data>
+			<key>hash2</key>
+			<data>
+			dfcLejA9m/25dPF6tpGykVqJ+47nLQrz7XzZHtua8dQ=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/newtip_right@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LtEHb7gVZ/hLXKu5tZzwapPWl10=
+			</data>
+			<key>hash2</key>
+			<data>
+			khjbn5Dw6eHbP+2mqwMAcKMd4He6vKEYn36gbFs1H6U=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_bottom@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GUtCevzFixxltdekv75uz5eZ39Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			9UTiScD74hWaORKamnKZCGRmeUnm1EkP9pYYft2c1gY=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_line@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Hr37ijL9XHIxlAOy+KsUir4GPaI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rw3QoBFgS811uqOXBvm/vSYxObjbMLpBVMON9qkuc1Y=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_line@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uFhHNa3+tCCwO2sDfSyosSFC/gk=
+			</data>
+			<key>hash2</key>
+			<data>
+			buuSzJGK9AmgF5L/6Nj5KJ8UdG34+TDHcrhBuH6S+mE=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_next@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7bmZb1Ic9h7FoqLKxgtZInqs/Ws=
+			</data>
+			<key>hash2</key>
+			<data>
+			+yrf4e3hGmjojshoC5nvFOfvQWFPFwaecK72wiZW4ms=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_next@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mEIiyfTSeAEH++wEmTfKtmziNX8=
+			</data>
+			<key>hash2</key>
+			<data>
+			r3M4J1bb19R/mkO3+R4H8aaS0z58ExTSc4uS9MADqtg=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_next_disable@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DgXH6XoxqdBBbl/cxpy/rscBod4=
+			</data>
+			<key>hash2</key>
+			<data>
+			6z1+116wMFKQt5qRK7lFRRCrD98BgY5Q+UgQZ8huRPE=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_next_disable@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tZLateyj5QaPZ8ZCRt8ry1u/ohk=
+			</data>
+			<key>hash2</key>
+			<data>
+			a8OlHvZ8xmmZ1+oBYapgNsiB0eLQz3Ec67th2N+b0e4=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_pause@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XbrO8O3cV3XDwdhnOpHF0zw2Rdc=
+			</data>
+			<key>hash2</key>
+			<data>
+			fs5GOPMP7X+Wqgv/FQGL48TTqcEHSrjrjzN0/GoaQPY=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_pause@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NUYw6ra5DqEShaS0wDF5LkjN+lg=
+			</data>
+			<key>hash2</key>
+			<data>
+			+3wUwO8MBDVNv2cx4UpJZkeVLXLCat5rRyd5TNucoGs=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_play@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UYMZ0Wce8M7Qkn08XdEkQMrckzI=
+			</data>
+			<key>hash2</key>
+			<data>
+			qN8Opc/19/ggY7hZ0USXoqlbUmGrnKfuLhzbARCXJ8M=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_play@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ycof8UKpCNIiP+0F1XHVDpQXQZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			sU7ZhdX2IS1Q0aWs3FlQuoZVvDfaSEUB6Q0c0fUhU+8=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_playing@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bnSa/qLk8PrkEYKUA9RcZx8PvE8=
+			</data>
+			<key>hash2</key>
+			<data>
+			a/ZDWhfu4jV//TE0Mb1nPUDQNI+PTcvxo5CDtND84rg=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_playing@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UxCdHHuHKWEJaSaPOMcBKC3ymC4=
+			</data>
+			<key>hash2</key>
+			<data>
+			p5E7u4m45I3Ht/1mtULjwBYhgZd/9xCGVo+u1t+fWMk=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_slider@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WNk/AUNW1dZtrU8GApkSbsj7pMk=
+			</data>
+			<key>hash2</key>
+			<data>
+			hzE+JmGDNwF9hMom+dmaDbo4xq59N5JtBxK9UhVOY0s=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/playback_top@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TI+Fp8E1E0M9jKmo0St6sV3xs3Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			qfEWE7AMu2QtHNt8wCqnaCwM7HeCQaTnOdmderwtbXw=
 			</data>
 		</dict>
 		<key>AiJiaEduSDKResources.bundle/player_live@2x.png</key>
@@ -5442,6 +6291,72 @@
 			<key>hash2</key>
 			<data>
 			B88Tr6q7AgFvv5hNrj2jDoEdaGzNsYD5MJajdv6n074=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/volume_high@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QhXa2SbQy+BuzIl28mwtRDB3eFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			anNfdBu268oAzEViVC6VKwrvn4pW1GsgGqNWAT39PHc=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/volume_high@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+iZFnSxK2sU8g7jdA68/M2wMlhg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pyosi/nF6FeSSgl/Dwd2MAI+6LyM1sSU2DEh01kcSMc=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/volume_low@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TIk0oXYLQs2mrmt7axQqtc7Ql1c=
+			</data>
+			<key>hash2</key>
+			<data>
+			cCEqk/5hFq+KbRAjU5PsX6HqPw46WXd28l/d7FBsnA4=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/volume_low@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RrJ9Lh/4uEXWmFPnlqI0TRDQX/w=
+			</data>
+			<key>hash2</key>
+			<data>
+			/e8VLv0HBr7LeT0Np5RYbId/tqgS4W//iNqnQyUIoEE=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/volume_muted@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZrpJa68Bg+H6DEUXOoV0nxMoqP8=
+			</data>
+			<key>hash2</key>
+			<data>
+			50P/p0xcZgGbk/CDWnU8fOWWV8NfokHbFUhNUnsGtNk=
+			</data>
+		</dict>
+		<key>AiJiaEduSDKResources.bundle/volume_muted@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cueg/DpwPqosd/QxVxpq7B+7vx4=
+			</data>
+			<key>hash2</key>
+			<data>
+			MAIk6/A1lpvbKTrjEk7rQMomf7tmElsCMnqKQCoj89g=
 			</data>
 		</dict>
 		<key>Headers/AiJiaEduSDK.h</key>
